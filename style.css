@@ -298,6 +298,8 @@ padding: 1rem 2rem;
 }
 .refrences{
     text-decoration: none;
+    list-style: none;
+}
 
 
 @media only screen and (max-width: 900px) {
