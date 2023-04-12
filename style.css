@@ -242,7 +242,7 @@ column-gap: 40%;
     justify-content: center;
   
 }
-#science img{
+#science img , #math img{
     width: 300px;
     height: 300px;
     border-radius: 20px;
