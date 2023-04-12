@@ -207,7 +207,7 @@ column-gap: 40%;
 #science h3{
     width: 400px;
 }
-#science p , #science h2 , .turbins   , .blades , #Engineering h2 ; #math h2 , #math p{
+#science p , #science h2 , .turbins   , .blades , #Engineering h2 , #math h2 , #math p{
     background-color: white;
     color: #5f19f5;
     padding: 1rem;
