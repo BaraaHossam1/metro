@@ -1,7 +1,10 @@
 *{
     box-sizing: border-box;
     font-family: 'Changa', sans-serif;
+    
 }
+body{
+    max-width: 100%;
 img{
     opacity: 0.9;
 }
