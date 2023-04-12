@@ -216,7 +216,7 @@ column-gap: 40%;
 
 
 }
-#science , #Tech , #Engineering ,#art{ 
+#science , #Tech , #Engineering ,#art , #math{ 
     margin: 5rem 0;
     padding: 5rem;
     display: flex;
